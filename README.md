@@ -1,0 +1,4 @@
+# Identifying CUT Sequences with Deep Learning
+
+This project is my bachelor thesis project at Computational Biological Research Center at Amirkabir University of technology. Its main contribution is identifying Cryptic Unstable Transcripts in yeast based on Deep Learning methods for the first time. Identifying these sequences is time-consuming and expensive; computational methods on the other hand, do not face these problems. This project tests using CNN-based approaches, using Bert with CNN as a classifier, using DNABert as a feature extractor with classifier and finally fine-tuning DNABert. The next contribution of this project is identifying CUT motifs based on attention mechanism with the fine-tuned DNABert results. Our goal is to find conserved de nova CUT sequences in yeast in order to further investigate the role and function of these cryptic sequences. 
+
